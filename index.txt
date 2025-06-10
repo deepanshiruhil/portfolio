@@ -44,8 +44,7 @@ With a strong foundation in Figma, Adobe Xpress, AAfter effects, Premiere pro, a
 
 What i'm doing
 
-alt = design icon
-Web design
+Design
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
@@ -61,7 +60,7 @@ Photography
 I make high-quality photos of any category at a professional level.
 
 
-## testimonials
+## testimonials: no required as such 
 
 Testimonials
 
