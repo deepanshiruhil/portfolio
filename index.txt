@@ -1,6 +1,6 @@
-vCard - Personal Portfolio
+The Personal Portfolio
 
-# sidebar
+#sidebar
 
 alt = Deepanshi Ruhil
 Deepanshi Ruhil
